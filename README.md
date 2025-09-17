@@ -28,7 +28,7 @@ This project demonstrates basic **CRUD operations** with an in-memory store.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/go-todo-api.git
+git clone https://github.com/YOUR-USERNAME/CRUD-API-with-Go.git
 cd go-todo-api
 
 ```
